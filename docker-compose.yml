@@ -5,7 +5,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: "Charitha@2609"
       
-      MYSQL_DATABASE: examdb205
+      MYSQL_DATABASE: examdb2051
     ports:
       - "3307:3306"
     volumes:
